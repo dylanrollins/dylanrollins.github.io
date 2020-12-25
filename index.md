@@ -1,6 +1,8 @@
 ---
-layout: page
-title: "Hello World"
-permalink: /
+title: Hello World
+permalink: /index.html
 ---
+
+
+
 # Hello World

@@ -1,9 +1,6 @@
 ---
 layout: page
-title: Hello World
-permalink: /index.html
+title: "Hello World"
+permalink: /
 ---
-
-
-
 # Hello World
